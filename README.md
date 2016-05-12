@@ -2,6 +2,8 @@
 [![dependencies](https://david-dm.org/crossjs/plat.svg?style=flat-square)](https://david-dm.org/crossjs/plat)
 [![devDependency Status](https://david-dm.org/crossjs/plat/dev-status.svg?style=flat-square)](https://david-dm.org/crossjs/plat#info=devDependencies)
 
+移动端版本请查看 [mobile 分支](../../tree/mobile)
+
 > A plat<del>form</del> built with koa and vue
 
 ## 技术栈
