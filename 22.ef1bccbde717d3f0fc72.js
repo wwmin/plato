@@ -1,0 +1,2 @@
+webpackJsonp([22],{207:function(e,o,t){var s,p;p=t(431),e.exports=s||{},e.exports.__esModule&&(e.exports=e.exports["default"]),p&&(("function"==typeof e.exports?e.exports.options||(e.exports.options={}):e.exports).template=p)},431:function(e,o){e.exports="<div class=v-user> <router-view></router-view> </div>"}});
+//# sourceMappingURL=22.ef1bccbde717d3f0fc72.js.map
